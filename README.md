@@ -4,5 +4,7 @@
 triangle mapping ka code dekh ek baar 
 links-:
 https://github.com/spmallick/learnopencv/blob/master/WarpTriangle/warpTriangle.py
+
 http://www.learnopencv.com/average-face-opencv-c-python-tutorial/
+
 http://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
