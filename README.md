@@ -11,11 +11,11 @@ http://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-open
 dlib.py not opening .. please check once
 
 
-asap
+asap-: resolved
 
 rpi has no cv2 it seems
 it is encapsulated in virtual environment 
-commande -:
+command -:
 source ~/.profile
 
 workon cv 
