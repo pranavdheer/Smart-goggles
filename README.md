@@ -14,4 +14,9 @@ dlib.py not opening .. please check once
 asap
 
 rpi has no cv2 it seems
+it is encapsulated in virtual environment 
+commande -:
+source ~/.profile
+
+workon cv 
 
