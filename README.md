@@ -20,3 +20,4 @@ source ~/.profile
 
 workon cv 
 
+REVIEW ALIGNMENT CODE 
