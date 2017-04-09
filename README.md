@@ -21,3 +21,9 @@ source ~/.profile
 workon cv 
 
 REVIEW ALIGNMENT CODE 
+
+
+Add a compiled code with face recognition ..
+ fps at 2.7 frame without gpu accelearation.
+ 
+ill update the rest of the code in a few days
