@@ -27,3 +27,6 @@ Add a compiled code with face recognition ..
  fps at 2.7 frame without gpu accelearation.
  
 ill update the rest of the code in a few days
+###
+try installing a few dependencies on raspberry pi :: caffe with cpu loading, scikit-image, tensorflow, keras, open BLAS
+###
