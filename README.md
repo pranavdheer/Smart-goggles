@@ -30,3 +30,12 @@ ill update the rest of the code in a few days
 ###
 try installing a few dependencies on raspberry pi :: caffe with cpu loading, scikit-image, tensorflow, keras, open BLAS
 ###
+
+
+change the location in the util.py and tensorflow.py 
+doownoad the flickr dataset .
+extract it 
+it is working on my lappy
+requires packages like caffe and pandas 
+download it 
+fives 50 percent accuracy .. good enough ... correct most of the times 
