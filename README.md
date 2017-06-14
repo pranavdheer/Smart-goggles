@@ -39,3 +39,15 @@ it is working on my lappy
 requires packages like caffe and pandas 
 download it 
 fives 50 percent accuracy .. good enough ... correct most of the times 
+
+
+
+
+
+download caffe on raspberry pi 
+and for the flickr thing change the directory of flickr into downloads or home and run the command via terminal
+it will take 30 mins to create the database 
+
+
+for the model it takes 10 hours approx 
+if you retrain it 
