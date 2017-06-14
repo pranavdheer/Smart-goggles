@@ -1,3 +1,4 @@
+
 # Glasses
 1. research paper for pre-processing techniques - https://globaljournals.org/GJCST_Volume12/2-Preprocessing-Technique-for-Face-Recognition.pdf
 2. dealunay_tri.ipynb- :
@@ -51,3 +52,6 @@ it will take 30 mins to create the database
 
 for the model it takes 10 hours approx 
 if you retrain it 
+
+and all the links you see in the cnn_util.py is inside caffe builtin
+premade models 
